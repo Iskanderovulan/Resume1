@@ -1,0 +1,445 @@
+
+.header  {
+    background: #5a708e;
+    min-height: 122px;
+}
+
+.header-name h1 {
+    overflow: hidden;
+    color: #8bc3da;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.top-nav__elements {
+    color: white;
+    font-size: 16px;
+}
+
+.top-nav__elements, .top-nav__elements1 {
+    padding: 14px;
+}
+
+.main {
+    background: #73a9bf;
+    height: 100%;
+    min-height: 900px;
+    padding: 10px 0;
+
+}
+
+
+.pclass {
+    margin: 60px 0px;
+}
+
+
+.texticon2 {
+
+    font-size: 28px;
+    color: white;
+}
+
+.main-one {
+    padding-top: 40px;
+    font-size: 20px;
+    color: white;
+}
+
+.ava {
+    width: 360px;
+    height: 360px;
+    border-radius: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    border: 7px solid #5a708e;
+}
+
+.ava img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.main-contact {
+    max-width: 460px;
+
+    width: 100%;
+}
+
+.ul-contact {
+    width: 100%;
+}
+
+.Contact-li {
+    border-bottom: 1px dotted white;
+    font-size: 0px;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 27px;
+}
+
+.Contact-li span {
+    font-size: 18px;
+    display: inline-block;
+}
+
+.Contact-li span:first-child {
+    width: 30%;
+    text-align: left;
+}
+
+.Contact-li span:last-child {
+    width: 70%;
+    text-align: right;
+}
+
+.email {
+    color: #5c7693;
+}
+
+.Second {
+    background: #efe8dd;
+    padding-bottom: 150px;
+}
+
+.icon3 {
+    /*margin-top:96px; */
+}
+
+.Second__Two {
+    max-height: 1200px;
+    padding-top: 96px;
+}
+
+.pclass1 {
+    color: #565656;
+    margin-top: 40px;
+}
+
+.texticon3 {
+
+    font-size: 28px;
+    color: #565656;
+}
+
+.texticon4 {
+    color: #565656;
+    border-bottom: 2px solid grey;
+    font-weight: normal;
+    padding-bottom: 5px;
+    font-size: 28px;
+}
+
+.Second__Three {
+    padding-top: 60px;
+    max-width: 560px;
+}
+
+.Verst {
+    font-size: 20px;
+    color: #565656;
+    padding-top: 20px;
+}
+
+.presentUL {
+    width: 100%;
+}
+
+.presetLI {
+
+    font-size: 0px;
+    color: #565656;
+
+}
+
+.presetLI span {
+    font-size: 18px;
+    display: inline-block;
+}
+
+.presetLI span:first-child {
+    width: 50%;
+
+}
+
+.presetLI span:last-child {
+    width: 40%;
+    text-align: right;
+}
+
+.pclass2 {
+    color: #565656;
+    margin: 30px 0px;
+}
+
+
+.texticon5 {
+
+    color: #565656;
+    font-size: 18px;
+    font-size: 200%; /* Размер шрифта */
+    border-bottom: 2px solid grey; /* Параметры линии под текстом */
+    font-weight: normal; /* Убираем жирное начертание */
+    padding-bottom: 5px;
+    margin-top: 100px;
+    font-size: 28px; /* Расстояние от текста до линии */
+}
+
+.ALLITEMS {
+    /*position:relative;*/
+    float: right;
+    margin-top: -960px;
+    /*left:600px;*/
+    /*top:-945px;*/
+    max-width: 320px;
+}
+
+.Graphics {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 6px;
+    padding: 2px;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.Graphics-item {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.Inner {
+    width: 50%;
+    background: #5a708e;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner2 {
+    width: 60%;
+    background: #5a708e;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner3 {
+    width: 70%;
+    background: #5a708e;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner4 {
+    width: 90%;
+    background: #73a9bf;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner5 {
+    width: 80%;
+    background: #73a9bf;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner6 {
+    width: 70%;
+    background: #73a9bf;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner7 {
+    width: 90%;
+    background: #a66266;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner8 {
+    width: 95%;
+    background: #a66266;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.Inner9 {
+    width: 91%;
+    background: #a66266;
+    padding: 6px 0;
+    color: white;
+    text-indent: 20px;
+}
+
+.firstgr {
+    font-size: 20px;
+    color: #565656;
+    padding-top: 30px;
+}
+
+.secondgr {
+    font-size: 20px;
+    color: #565656;
+    padding-top: 30px;
+
+}
+
+.thirdgr {
+    font-size: 20px;
+    color: #565656;
+    padding-top: 30px;
+}
+
+.firstgr, .secondgr, .thirdgr {
+    font-weight: bold;
+}
+
+.Third {
+    background: #a66266;
+    height: 850px;
+    max-height: 100%;
+
+}
+
+.kontakt {
+    font-size: 28px;
+    padding-top: 80px;
+    color: white;
+}
+
+.pismo {
+    font-size: 20px;
+    color: white;
+
+}
+
+.info1 {
+    font-size: 22px;
+    color: white;
+    padding-top: 100px;
+}
+
+
+.TH_Two {
+    max-width: 460px;
+
+    width: 100%;
+}
+
+.ulTwo {
+    width: 100%;
+}
+
+.Twoli {
+    border-bottom: 1px dotted white;
+    font-size: 0px;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 27px;
+}
+
+.Twoli span {
+    font-size: 18px;
+    display: inline-block;
+}
+
+.Twoli span:first-child {
+    width: 30%;
+    text-align: left;
+}
+
+.Twoli span:last-child {
+    width: 70%;
+    text-align: right;
+}
+
+.TH_Three {
+    width: 100%;
+    max-width: 400px;
+    margin-top: -350px;
+    float: right;
+
+}
+
+.fb {
+    padding-top: 30px;
+}
+
+.fb2 {
+    margin-left: 10px;
+}
+
+.nome, .emoil, .message {
+    color: white;
+    font-size: 15px;
+}
+
+.area, .area2 {
+    border-radius: 10px;
+    height: 36px;
+    width: 400px;
+}
+
+.emoil {
+    margin-top: 20px;
+}
+
+.area3 {
+    border-radius: 10px;
+    height: 120px;
+    width: 400px;
+}
+
+.message {
+    margin-top: 20px;
+}
+
+.area, .area2, .area3 {
+    width: 100%;
+    max-width: 400px;
+}
+
+
+input[class="wall"] {
+    margin-top: 20px;
+    float: right;
+    color: white;
+    background: #5a708e;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.LastSection {
+    max-height: 120%;
+    height: 80px;
+    background: #5a708e;
+}
+
+
+.lastop {
+    padding-top: 30px;
+}
+
+.ilp {
+    color: white;
+}
+
+
+.elp {
+    color: white;
+    float: right
+}
+
+
